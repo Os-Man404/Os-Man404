@@ -17,7 +17,8 @@
     <img src="https://komarev.com/ghpvc/?username=Os-Man404&label=Profile%20Views&color=5B4BFF&style=flat-square" alt="Profile Views"/>
   </a>
 </p>
-## About Me
+
+### About Me
 
 I'm a CSE student interested in building practical projects, exploring technology, and continuously learning new things.
 
