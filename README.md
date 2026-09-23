@@ -106,6 +106,10 @@ I'm a CSE student interested in building practical projects, exploring technolog
 <a href="https://www.instagram.com/fo_r_had_10/">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" height="38" alt="Instagram"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.facebook.com/osmangoni.971267/">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="38" height="38" alt="Facebook"/> 
+</a>
 
 </p>
 
