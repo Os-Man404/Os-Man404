@@ -1,7 +1,15 @@
-<h1 align="center">Hi, I'm Osman Goni 👋</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I'm+Osman+Goni+%F0%9F%91%8B&repeat=0"
+    alt="Hi, I'm Osman Goni"
+  />
+</p>
 
 <p align="center">
-  <b>Building • Learning • Experimenting</b>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=10&color=FFFFFF&center=true&vCenter=true&width=520&height=35&lines=Building;Learning;Experimenting"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
@@ -9,9 +17,6 @@
     <img src="https://komarev.com/ghpvc/?username=Os-Man404&label=Profile%20Views&color=5B4BFF&style=flat-square" alt="Profile Views"/>
   </a>
 </p>
-
----
-
 ## About Me
 
 I'm a CSE student interested in building practical projects, exploring technology, and continuously learning new things.
